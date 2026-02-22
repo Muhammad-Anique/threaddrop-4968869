@@ -2,7 +2,7 @@ ThreadDrop task list - Next.js/TypeScript/Tailwind/Supabase streetwear landing p
 
 **Tasks:**
 1. [x] Init project config (package.json, tsconfig, next.config, .gitignore, postcss)
-2. [ ] Tailwind config - minimalist streetwear theme (Black, White, Washed Grey, Off-White)
+2. [x] Tailwind config - minimalist streetwear theme (Black, White, Washed Grey, Off-White)
 3. [ ] Supabase client + env vars (NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY)
 4. [ ] Root layout (metadata, fonts)
 5. [ ] Hero component (premium intro, Unsplash visuals, 'Notify Me' CTA)
